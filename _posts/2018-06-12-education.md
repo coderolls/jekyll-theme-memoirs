@@ -7,7 +7,7 @@ layout: post
 date: 2021-10-20T05:51:01.504Z
 title: Education must also train one for quick, resolute and effective thinking.
 description: This is the description
-image: /assets/images/11.jpg
+image: /assets/images/1.jpg
 author: john
 categories:
   - Lifestyle
