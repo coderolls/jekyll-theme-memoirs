@@ -1,7 +1,7 @@
 # Site
-name: "gitpro"
-title: "gitpro"
-description: "GIT how to's, tips and tricks and short tutorials for you."
+name: "Git Tutorials"
+title: "Git Tutorials"
+description: "Git how to's, tips and tricks and short tutorials for you."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
