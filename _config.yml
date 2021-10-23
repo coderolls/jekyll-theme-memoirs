@@ -1,7 +1,7 @@
 # Site
 name: "Git Tutorials"
 title: "Git Tutorials"
-description: "Git how to's, tips and tricks and short tutorials for you."
+description: "Git how to's, tips, tricks and short tutorials for you."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
